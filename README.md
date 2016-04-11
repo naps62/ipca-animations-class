@@ -3,7 +3,7 @@
 ## Setup needed
 
 If you already have a web development environment you can use (such as an existing web project), go for it.
-If not, there's no need to spend time installing anything or setting up a page for testing. Use [Codepen](http://codepen.io/pen/) get started right away.
+If not, there's no need to spend time installing anything or setting up a page for testing. Use [Codepen](http://codepen.io/pen/) to get started right away.
 
 ## 1. CSS Transitions
 
